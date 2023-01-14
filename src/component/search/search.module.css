@@ -1,0 +1,42 @@
+
+.TableSearchRow{
+    background-color: white;
+    width:100%;
+    padding:0px
+}
+
+
+
+
+.searchDiv{
+    display: flex;
+    flex-direction: row;
+    /* padding:20px; */
+    width:100%;
+    
+   
+    
+}
+.searchOption{
+  margin-left: 100px;
+    
+    padding: 0px!important;
+    
+}
+.searchbar{
+    /* background-color: grey; */
+    border :1px solid rgb(199, 191, 191) ;
+
+    border-radius: 25px;
+  
+   
+    width: 200px;
+   
+    /* padding: 10px; */ 
+}
+
+.box{
+    /* margin-bottom: 10px; */
+    background-color: white;
+    
+}

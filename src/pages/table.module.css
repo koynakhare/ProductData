@@ -1,0 +1,145 @@
+.tableclass{
+    display: flex;
+    flex-direction: column;
+   /* padding:10px; */
+   margin:20px;
+   margin-right: 10px;
+   margin-left: 15%;
+width:70%;
+color:black;
+background-color: #f1f1f1;
+/* box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19); */
+/* padding:10px; */
+border-radius: 10px;
+
+padding:10px;
+padding-left:30px;
+padding-right:30px
+
+}
+.TableHeadng{
+    padding:20px;
+    color:black;
+ 
+}
+.ProductDataText{
+    font-size: 20px;
+}
+.tablehead1{
+    /* padding-left:20px; */
+    width:20%;
+  background-color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* width:20px */
+    border-bottom: 1px solid #f1f1f1;
+
+   padding:5px;
+   border-top:1px solid #f1f1f1
+   
+}
+
+.tablerow1{
+
+
+/* background-color: white; */
+background-color: black;
+}
+
+.addDiv{
+   margin-left: 900px;
+   margin-top: 20px;
+   
+}
+.tablerow2{
+    background-color: white;
+    border-bottom: 1px solid #f1f1f1;
+  /* padding:100px; */
+ 
+  height:50px
+  
+}
+.TableSearchRow{
+    background-color: white;
+    width:100%
+}
+.tablerow2:hover{
+    background-color:#f1f1f1;
+}
+.editButton{
+    color :rgb(238, 191, 105)
+}
+.DeleteButton{
+    color:rgb(241, 111, 111)
+}
+.tabledata{
+    /* padding:20px; */
+    padding-left: 20px;
+    width:30%;
+  
+}
+.icon{
+    /* width: 100%; */
+   
+   display: flex;
+   flex-direction: row;
+    /* margin-left: 750px; */
+}
+
+.leftIcon{
+   
+    margin-left: 30px;
+}
+.pagenumber{
+    margin-left: 55%;
+    width:30%;
+
+   
+}
+
+
+.TablePagination{
+  padding:10px
+}
+.TablePagination p{
+    margin-bottom: 0px;
+}
+.searchDiv{
+    display: flex;
+    flex-direction: row;
+    /* padding:20px; */
+    width:100%;
+    
+   
+    
+}
+.searchOption{
+  margin-left: 100px;
+    
+    padding: 0px!important;
+    
+}
+.searchbar{
+    /* background-color: grey; */
+    border :1px solid rgb(199, 191, 191) ;
+
+    border-radius: 25px;
+  
+   
+    width: 200px;
+   
+    /* padding: 10px; */ 
+}
+
+.box{
+    margin-bottom: 10px;
+    background-color: white;
+    
+}
+.ProductDataText{
+    margin-top: 10px;
+    color:black;
+    font-weight: bold;
+}
+.deleteIcon{
+  color: rgb(255, 103, 103);
+}
